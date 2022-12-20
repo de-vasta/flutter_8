@@ -1,11 +1,11 @@
-<h1 align="center"> Лабораторна робота №7 </h1>
+<h1 align="center"> Лабораторна робота №8 </h1>
 <h2 align="center"> Створення власних віджетів, успадкованих від класу <b>StatelessWidget</b>. Використання віджету <b>Material App</b></h2>
 
 ### Розробити графічний інтерфейс згідно рисунку, представленого в [лабораторній роботі №6](https://github.com/de-vasta/flutter_6), але в стилі _material design_ з використанням власного віджету, успадкованого від класу `StatelessWidget` з передачею даних (min 3 властивості) через параметри його конструктора.
 
 #### Code
 [![main.dart](https://img.shields.io/badge/main-dart-2eb2ee?style=flat-square&logo=flutter&labelColor=02569B&logoColor=55c0f0)](lib/main.dart)&nbsp;
-[![main.dart](https://img.shields.io/badge/custom_stateless-dart-2eb2ee?style=flat-square&logo=flutter&labelColor=02569B&logoColor=55c0f0)](lib/main.dart)
+[![main.dart](https://img.shields.io/badge/custom_stateless-dart-2eb2ee?style=flat-square&logo=flutter&labelColor=02569B&logoColor=55c0f0)](lib/custom_stateless.dart.dart)
 
 #### Контрольні запитання
 
