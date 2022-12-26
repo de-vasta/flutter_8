@@ -5,7 +5,7 @@
 
 #### Code
 [![main.dart](https://img.shields.io/badge/main-dart-2eb2ee?style=flat-square&logo=flutter&labelColor=02569B&logoColor=55c0f0)](lib/main.dart)&nbsp;
-[![main.dart](https://img.shields.io/badge/custom_stateless-dart-2eb2ee?style=flat-square&logo=flutter&labelColor=02569B&logoColor=55c0f0)](lib/custom_stateless.dart.dart)
+[![main.dart](https://img.shields.io/badge/custom_stateless-dart-2eb2ee?style=flat-square&logo=flutter&labelColor=02569B&logoColor=55c0f0)](lib/custom_stateless.dart)
 
 #### Контрольні запитання
 
